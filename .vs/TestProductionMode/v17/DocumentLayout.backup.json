@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\temp\\umbraco test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC7958A7-3F83-4D80-9B2A-B3324483F887}|TestProductionMode\\TestProductionMode.csproj|c:\\temp\\umbraco test\\testproductionmode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AC7958A7-3F83-4D80-9B2A-B3324483F887}|TestProductionMode\\TestProductionMode.csproj|solutionrelative:testproductionmode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC7958A7-3F83-4D80-9B2A-B3324483F887}|TestProductionMode\\TestProductionMode.csproj|c:\\temp\\umbraco test\\testproductionmode\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AC7958A7-3F83-4D80-9B2A-B3324483F887}|TestProductionMode\\TestProductionMode.csproj|solutionrelative:testproductionmode\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7958A7-3F83-4D80-9B2A-B3324483F887}|TestProductionMode\\TestProductionMode.csproj|c:\\temp\\umbraco test\\testproductionmode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC7958A7-3F83-4D80-9B2A-B3324483F887}|TestProductionMode\\TestProductionMode.csproj|solutionrelative:testproductionmode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\temp\\umbraco test\\TestProductionMode\\appsettings.Development.json",
               "RelativeDocumentMoniker": "TestProductionMode\\appsettings.Development.json",
@@ -83,16 +83,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\temp\\umbraco test\\TestProductionMode\\appsettings.json",
               "RelativeDocumentMoniker": "TestProductionMode\\appsettings.json",
               "ToolTip": "C:\\temp\\umbraco test\\TestProductionMode\\appsettings.json",
               "RelativeToolTip": "TestProductionMode\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-31T13:38:14.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T13:38:14.389Z"
             }
           ]
         },
